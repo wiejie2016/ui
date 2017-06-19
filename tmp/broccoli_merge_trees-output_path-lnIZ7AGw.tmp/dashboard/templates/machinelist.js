@@ -1,0 +1,1 @@
+export default Ember.HTMLBars.template({"id":"nWVS0Vkq","block":"{\"statements\":[[1,[33,[\"item-list\"],null,[[\"title\",\"items\"],[\"List of Server\",[28,[\"model\"]]]]],false]],\"locals\":[],\"named\":[],\"yields\":[],\"hasPartials\":false}","meta":{"moduleName":"dashboard/templates/machinelist.hbs"}});
